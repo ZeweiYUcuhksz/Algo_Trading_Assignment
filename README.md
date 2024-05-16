@@ -19,6 +19,8 @@ analy_alphas-----因子计算与分析
 
 datas.py-----股票数据下载，支持多进程
 
+backtest_alpha001.ipynb - backtest_alpha020.ipynb -----记录因子回测结果
+
 
 ## 使用步骤
 
@@ -31,3 +33,7 @@ datas.py-----股票数据下载，支持多进程
 4.在2.backtrader.ipynb回测
 
 5.在factorycompare.ipynb计算历年所有因子的收益并进行百分比排名
+
+## 参考资料
+1. https://arxiv.org/pdf/1601.00991
+2. 《基于短周期价量特征的多因子选股体系——数量化专题之九十三》国泰君安证券
