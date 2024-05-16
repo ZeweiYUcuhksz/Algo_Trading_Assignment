@@ -13,6 +13,8 @@ alphas101.py-----alphas101因子计算类
 
 alphas191.py-----alphas191因子计算类
 
+myalphas.py-----自主设计的因子计算类
+
 analy_alphas-----因子计算与分析
 
 datas.py-----股票数据下载，支持多进程
